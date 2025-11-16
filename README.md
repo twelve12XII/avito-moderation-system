@@ -6,8 +6,10 @@ docker-compose up --build
 
 в папке backend: 
 npm install
+
 npm start
 
-в папке frontend:
+в папке frontend: 
 yarn install или npm install
+
 yarn dev или npm run dev
