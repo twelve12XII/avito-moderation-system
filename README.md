@@ -1,4 +1,4 @@
-#Запуск через docker compose в корневой папке проекта
+#Запуск через docker compose в корневой папке проекта:
 docker-compose up --build
 
 #Если нет докера
